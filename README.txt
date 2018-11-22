@@ -21,14 +21,14 @@ This scripts 1. scrape data according to a query from the DNB in MARC21-XML form
 
 count     query
 ‾‾‾‾‾‾   ‾‾‾‾‾‾
-2137 	: vlg all "S. Fischer"      and jhr within "1894 1936"
-1907 	: vlg all "Ullstein"        and jhr within "1894 1936"
-1801 	: vlg all "Diederichs"      and jhr within "1894 1936"
-844 	: vlg all "Insel-Verlag"    and jhr within "1894 1936"
-662 	: vlg all "Rowohlt"         and jhr within "1894 1936"
-562 	: vlg all "Albert Langen"   and jhr within "1894 1936"
-259 	: vlg all "Kurt Wolff"      and jhr within "1894 1936"
-48 		: vlg all "Bermann-Fischer" and jhr within "1894 1936"
+2137  : vlg all "S. Fischer"      and jhr within "1894 1936"
+1907  : vlg all "Ullstein"        and jhr within "1894 1936"
+1801  : vlg all "Diederichs"      and jhr within "1894 1936"
+844   : vlg all "Insel-Verlag"    and jhr within "1894 1936"
+662   : vlg all "Rowohlt"         and jhr within "1894 1936"
+562   : vlg all "Albert Langen"   and jhr within "1894 1936"
+259   : vlg all "Kurt Wolff"      and jhr within "1894 1936"
+48    : vlg all "Bermann-Fischer" and jhr within "1894 1936"
 
 Total:	 8220
 
